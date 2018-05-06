@@ -1,4 +1,4 @@
-# Bluetooth-LowEnergy_iOS_Swift_4
+# Bluetooth LowEnergy iOS
 
 1- Scan for peripheral devices.<br />
 2- Discover device.<br />
